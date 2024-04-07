@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStringBuilder", "CustomStringBuilder\CustomStringBuilder.csproj", "{D4B380F2-E035-4101-83B5-FB69D1608CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter-Decorator", "Adapter-Decorator\Adapter-Decorator.csproj", "{57664EA9-0475-4E57-B452-7E90327BD6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiInheritanceWithInterfaces", "MultiInheritanceWithInterfaces\MultiInheritanceWithInterfaces.csproj", "{3BCB1160-0DD6-4F6B-A6F8-742B97836FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritanceWithDefaultInterfaceMembers", "MultipleInheritanceWithDefaultInterfaceMembers\MultipleInheritanceWithDefaultInterfaceMembers.csproj", "{68781B4F-3374-4FF0-AA02-79FF2189F789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDecoratorComposition", "DynamicDecoratorComposition\DynamicDecoratorComposition.csproj", "{4D94EFCD-C06B-4BD4-A06C-946BFB6156E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleFinalTask", "ModuleFinalTask\ModuleFinalTask.csproj", "{AF07100D-4EA3-4E63-874C-D3CB44069B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B380F2-E035-4101-83B5-FB69D1608CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B380F2-E035-4101-83B5-FB69D1608CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B380F2-E035-4101-83B5-FB69D1608CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B380F2-E035-4101-83B5-FB69D1608CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57664EA9-0475-4E57-B452-7E90327BD6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57664EA9-0475-4E57-B452-7E90327BD6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57664EA9-0475-4E57-B452-7E90327BD6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57664EA9-0475-4E57-B452-7E90327BD6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCB1160-0DD6-4F6B-A6F8-742B97836FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCB1160-0DD6-4F6B-A6F8-742B97836FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCB1160-0DD6-4F6B-A6F8-742B97836FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCB1160-0DD6-4F6B-A6F8-742B97836FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68781B4F-3374-4FF0-AA02-79FF2189F789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68781B4F-3374-4FF0-AA02-79FF2189F789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68781B4F-3374-4FF0-AA02-79FF2189F789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68781B4F-3374-4FF0-AA02-79FF2189F789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D94EFCD-C06B-4BD4-A06C-946BFB6156E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D94EFCD-C06B-4BD4-A06C-946BFB6156E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D94EFCD-C06B-4BD4-A06C-946BFB6156E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D94EFCD-C06B-4BD4-A06C-946BFB6156E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07100D-4EA3-4E63-874C-D3CB44069B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07100D-4EA3-4E63-874C-D3CB44069B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07100D-4EA3-4E63-874C-D3CB44069B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07100D-4EA3-4E63-874C-D3CB44069B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362576D0-1231-4DA0-9FB8-EBFFF0CCCF7D}
+	EndGlobalSection
+EndGlobal
